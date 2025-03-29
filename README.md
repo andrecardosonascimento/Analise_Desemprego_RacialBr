@@ -8,11 +8,11 @@
 Integrantes:
 
 - Andre Cardoso do Nascimento - 2222103842 
-- Breno dos Santos Borges - 2222107276
+- Breno dos Santos Borges - 2222107276 <br>
   Linkedin: https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/
-- Kauã de Araújo Nascimento - 2222100518
+- Kauã de Araújo Nascimento - 2222100518 <br>
   Linkedin: https://www.linkedin.com/in/kauaaraujon/
-- Lucas Ribeiro Santana - 2222107276
+- Lucas Ribeiro Santana - 2222107276 <br>
   Linkedin: https://www.linkedin.com/in/lucas-ribeiro-a0a92712a/
 
 ## Professor:
